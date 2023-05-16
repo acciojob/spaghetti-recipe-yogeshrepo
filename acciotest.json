@@ -1,0 +1,4 @@
+{
+    "testRepo": "spaghetti-recipe-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
